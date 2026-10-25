@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+*.user
+build-verify/
+build-verify-app/
+build-verify-app2/
